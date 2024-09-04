@@ -16,5 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ### Web Version
+![Screenshot Web Version](https://github.com/Georgii1441/flutter_application_practice_1/raw/main/screenshots/web_version.bmp)
 
 ### Mobile Version
+![Screenshot Mobile Version](https://github.com/Georgii1441/flutter_application_practice_1/raw/main/screenshots/mobile_version.bmp)
